@@ -4,7 +4,6 @@
 
 Existing online Bluebook citation generators are widely disliked because they rely on rigid template strings, miss short-form/"Id." rules, ignore court- and jurisdiction-specific reporter quirks, and mishandle italics and parallel citations. The goal of this project is a web app for lawyers and law students that gets Bluebook case citations *right*, starting narrow (case citations only) and building outward.
 
-The repo is currently empty (just `README.md`). This is a from-scratch greenfield build.
 
 Decisions locked in with the user:
 - **MVP scope**: Case citations only (Bluebook Rule 10). Other source types (statutes, books, articles, constitutions) come later; the architecture must anticipate them without requiring a rewrite.
