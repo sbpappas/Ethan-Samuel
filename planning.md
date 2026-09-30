@@ -9,4 +9,4 @@ Orrrrr Next.js full-stack:
 	- Citation engine still lives as a package but is consumed via server actions/API routes instead of a separate service
 
 
-
+Asked claude to generate a scaffold...kinda overwhelmning, may delete
